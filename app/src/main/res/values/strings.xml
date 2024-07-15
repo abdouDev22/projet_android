@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="logout_message">Déconnexion!</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_nback">Welcome\nBack</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="todo">TODO</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="nom_produit">Nom Produit</string>
+    <string name="prix_produit">Prix Produit</string>
+    <string name="image_du_produit">Image du Produit</string>
+    <string name="add">Ajoute</string>
+    <string name="par_jour">Par jour</string>
+    <string name="produit_achete">Produit achete</string>
+    <string name="logout">Logout</string>
+    <string name="_120">120</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="title_1">Title 1</string>
+    <string name="_1">1</string>
+</resources>
